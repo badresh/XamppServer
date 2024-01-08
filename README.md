@@ -1,4 +1,4 @@
-# XamppServer
+# XamppServer      
  XAMPP is a popular open-source software package that facilitates setting up a local server environment for web development. It includes several services like Apache (web server), MySQL (database server), PHP, and more. Here's a step-by-step guide on how to install and run the services using the XAMPP Control Panel:
 
 1. **Download XAMPP:**
@@ -39,7 +39,7 @@
 
 Remember, it's important to stop the services when you're done using them, especially if you're running them on your local machine for development purposes. You can stop services using the "Stop" button in the XAMPP Control Panel. 
 
-#Aditional services
+# Aditional services
 In XAMPP, additional services like FTP, Mercury, and Tomcat are optional components that you can install and run based on your specific requirements. Here's a guide on how to run these additional services:
 
 ### 1. FileZilla (FTP Server):
@@ -78,7 +78,7 @@ After starting Tomcat, you can access the Tomcat Manager by going to [http://loc
 Remember that these additional services might not be necessary for every web development project, so you can choose to start or stop them based on your specific needs. Also, make sure to stop these services when you're done using them to free up system resources.
 
 
-#ConfigurationFile
+# ConfigurationFile
 In many cases, you may not need to change the default configuration files for XAMPP services, especially when you are setting up a local development environment. The default configurations are generally suitable for most development purposes.
 
 However, there might be scenarios where you need to modify configuration files to match specific project requirements or to troubleshoot issues. Here are a few common situations where you might need to make changes:
@@ -101,7 +101,7 @@ Always make a backup of the configuration files before making changes so that yo
 If you're unsure whether you need to modify a configuration file, consult the documentation for the specific service or check online forums for guidance. Additionally, keep in mind that for most web development projects, the default configurations provided by XAMPP are sufficient, and manual changes are not always necessary.
 
 
-#To Change PORT Number
+# To Change PORT Number
 To change the port number in Tomcat, you'll need to modify the `server.xml` configuration file. Follow these steps:
 
 1. **Locate the `server.xml` file:**
