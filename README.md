@@ -1,5 +1,5 @@
 # XamppServer
-/* XAMPP is a popular open-source software package that facilitates setting up a local server environment for web development. It includes several services like Apache (web server), MySQL (database server), PHP, and more. Here's a step-by-step guide on how to install and run the services using the XAMPP Control Panel:
+ XAMPP is a popular open-source software package that facilitates setting up a local server environment for web development. It includes several services like Apache (web server), MySQL (database server), PHP, and more. Here's a step-by-step guide on how to install and run the services using the XAMPP Control Panel:
 
 1. **Download XAMPP:**
    - Go to the official XAMPP website: [https://www.apachefriends.org](https://www.apachefriends.org/).
@@ -37,4 +37,4 @@
 7. **Additional Services (Optional):**
    - Depending on your needs, you can also start other services like FileZilla (FTP server), Mercury (mail server), etc. These services are optional and may not be required for every web development project.
 
-Remember, it's important to stop the services when you're done using them, especially if you're running them on your local machine for development purposes. You can stop services using the "Stop" button in the XAMPP Control Panel. /*
+Remember, it's important to stop the services when you're done using them, especially if you're running them on your local machine for development purposes. You can stop services using the "Stop" button in the XAMPP Control Panel. 
